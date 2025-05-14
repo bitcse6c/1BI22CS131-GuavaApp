@@ -15,7 +15,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Clone your Git repository
-                git url: 'https://github.com/Riya-Singh-Unofficial/GuavaTest.git'
+                git url: 'https://github.com/bitcse6c/1BI22CS131-GuavaApp.git'
 
             }
         }
